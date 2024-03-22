@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>About Drake Shepard</title>
+  </head>
+  <body>
+    <div class="container">
+			<div class="header">
+				<h1>About Drake Shepard</h1>
+			</div><!-- end header-->
+      <hr>
+			<div class="image">
+        <img src="https://media.licdn.com/dms/image/C4D03AQGNPamnU9do1A/profile-displayphoto-shrink_800_800/0/1541630914471?e=1716422400&v=beta&t=6CYufi6nqQMKap87trAwhzCyP-wsBGhP89NLsVkLY9k" height="150">	
+			</div><!-- end image-->
+			<div class="intro column">
+        <div class="About"> 
+          <h4>Email:Dabshepard@gmail.com</h4>
+           <h4> <a href="https://www.linkedin.com/in/drake-shepard-186131125/">Drake Shepard LinkedIn</a></h4>
+           <hr>
+           <H2>Summary</H2>
+           <H4>I am Drake Shepard and I am making a career pivot from being a Solution Consultant to something slightly more technical. </H4>
+          </div><!-- End of about -->
+          <div class="More about me">
+            <hr>
+            <h2>More About Me</h2>
+            <h3>Education</h3>
+            <ul id="Education Locations">
+              <li>University of Iowa</li>
+              <li>University of Barcelona</li>
+              <li>Oracle University</li>
+              </Ul>	
+        <h3>Favorite Activities</h3>
+            <ul id="Activities">
+              <li>Skiing</li>
+              <li>Basketball</li>
+              <li>Running</li>			
+            </Ul>			
+            </div><!-- End of More about me -->
+            <hr>
+            <div class="Work Experience"></div>
+            <H2>Work Experience in Order</H2>
+           <ol>
+              <li>Singuli</li>
+      
+              <li>Sage</li>
+              <li>Oracle</li>
+            </ol>
+
+            <Table>
+              <caption> Proficient Softwares </caption>
+              <thead>
+                 <Tr>
+                     <Th>Softwares</Th>
+                     <Th>Description</Th>
+                     <Th>Profiency</Th>
+                 </thead>
+                 <tbody>
+                   </Tr>
+                   <Td>Eloqua</Td>
+                 <Td>Marketing Automation Software</Td>
+                 <Td>7/10</Td>
+               </Tr>
+                <Tr>
+             <Td>Inventory Planner</Td>
+             <Td>Demand Forecasting Software</Td>
+             <Td>9/10</Td>
+           </Tr>
+           <Tr>
+             <Td>Singuli</Td>
+             <Td>Demand Forecasting Software</Td>
+             <Td> 4/10</Td>
+           </Tr>
+         </tbody>
+         </Table>
+<Tr></Tr>
+<div class="contact me">
+    <hr>
+<h1>Contact Me</h1>
+<form>
+    <Label>
+        <input type="email" placeholder="Email"name="email">
+       
+    </Label>
+    <input type="password" placeholder="Password"name="Password"> 
+    <input type="checkbox" required placeholder="tos-agree"name="email"> I agree to consenting to this form <br>
+    <br>
+
+    <input type="checkbox" id="Favorite Coding Language" name="Language" value="Python">
+    <label for="Python"> I like Python</label><br>
+    <input type="checkbox" id="Favorite Coding Language" name="Language" value="HTML">
+    <label for="HTML"> I like HTML</label><br>
+    <input type="checkbox" id="Favorite Coding Language" name="Language" value="Java Script">
+    <label for="HTML"> I like Java Script</label><br>
+<Br>
+    <form action="Position">
+<select name="Position">
+    <option value="RC">Recruiter</option>
+    <option value="ST">Student</option>
+    <option value="MR">Manager</option>
+    <option value="Cr">Coworker</option>
+</select>
+        <button type="button">Submit Form</button>
+        <input type="Title" placeholder="Title" name="Title">
+        <textarea name="BIO" id="" cols="40" rows="1">Tell Me About Yourself</textarea>
+        </form>
+</select>
+</div>
+
+
+
+  </body>
+</html>
